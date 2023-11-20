@@ -1,0 +1,21 @@
+{
+  "tab": {
+    "posts": "Posts",
+    "snippets": "Snippets",
+    "projects": "Projects"
+  },
+  "intro": {
+    "title": "👋 Hi! I'm Taehyeon Kim",
+    "description": "A iOS developer, focuses on Swift, SwiftUI and other technologies",
+    "link": "Take a Look"
+  },
+  "dateFormat": "MMM dd, yyyy",
+  "comment": {
+    "title": "Comments",
+    "btn": "Click to Comment",
+    "owner": "Author"
+  },
+  "projects": {
+    "title": "Projects"
+  }
+}
